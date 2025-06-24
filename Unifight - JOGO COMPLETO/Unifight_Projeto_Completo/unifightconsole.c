@@ -47,7 +47,7 @@ void ExecutarAtaque(Personagem *atacante, Personagem *alvo, TipoPose ataque)
         if (atacante->poderAtual >= 50)
         { // se o poder estiver carregado
             dano = atacante->danoPoder;
-            atacante->poderAtual = 0; // inicializa o poder do jogador
+            atacante->poderAtual -= 50; // inicializa o poder do jogador
             tipo = "Poder Especial";
         }
         else
