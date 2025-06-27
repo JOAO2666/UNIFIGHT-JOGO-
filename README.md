@@ -1,4 +1,19 @@
-# UNI FIGHT 🥊
+# Unifight
+
+Este é um projeto de jogo de luta desenvolvido para a disciplina de Algoritmos e Programação.
+
+## Como Compilar e Rodar o Jogo
+
+Para compilar e rodar o projeto, é recomendado utilizar o **Code::Blocks**.
+
+1.  Abra o arquivo de projeto `.cbp` no Code::Blocks.
+2.  Compile e execute o projeto a partir da IDE.
+
+## Apresentação do Projeto
+
+O slide com a apresentação detalhada do projeto pode ser encontrado abaixo:
+
+[Projeto da disciplina de Algoritmos e Programação para Computação.pdf](Projeto%20da%20disciplina%20de%20Algoritmos%20e%20Programac%CC%A7a%CC%83o%20para%20Computac%CC%A7a%CC%83o.pdf)
 
 ## Sobre o Jogo
 
