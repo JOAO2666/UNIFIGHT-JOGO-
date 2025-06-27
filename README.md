@@ -1,4 +1,4 @@
-# Unifight 🥊
+# Unifight 
 
 Este é um projeto de jogo de luta 2D desenvolvido para a disciplina de Algoritmos e Programação.
 
