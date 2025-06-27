@@ -1,6 +1,6 @@
-# Unifight
+# Unifight 🥊
 
-Este é um projeto de jogo de luta desenvolvido para a disciplina de Algoritmos e Programação.
+Este é um projeto de jogo de luta 2D desenvolvido para a disciplina de Algoritmos e Programação.
 
 ## Como Compilar e Rodar o Jogo
 
@@ -17,7 +17,7 @@ O slide com a apresentação detalhada do projeto pode ser encontrado abaixo:
 
 ## Sobre o Jogo
 
-UNI FIGHT é um jogo de luta 2D desenvolvido como um projeto para a disciplina de Algoritmos e Programação. O objetivo é uma batalha emocionante entre dois jogadores, onde cada um escolhe um personagem com habilidades únicas para lutar pela vitória e pelo grande troféu!
+O objetivo é uma batalha entre dois jogadores, onde cada um escolhe um personagem com habilidades únicas para lutar pela vitória e pelo grande troféu!
 
 ## Documentação
 
@@ -26,17 +26,11 @@ UNI FIGHT é um jogo de luta 2D desenvolvido como um projeto para a disciplina d
 *   **Quantidade de Personagens:** 4
 *   **Quantidade de Rounds:** 12
 
-### Personagens
-
-Atualmente, um dos personagens desenvolvidos é:
-
-*   **???**: Um guerreiro com intensos olhos de âmbar. Ele passou anos treinando com monges e feiticeiros que cultuavam os elementos, aprendendo a controlar o fogo. Agora, ele viaja como um caçador de monstros e artefatos arcanos, buscando pistas sobre a origem do fogo que habita seu corpo.
-
 ## Equipe de Desenvolvimento
 
 Estudantes de Algoritmo e Programação na Universidade Federal do Vale do São Francisco (Univasf) - Campus Juazeiro-BA.
 
-*   **Líder (Gerente):** Eduardo dos Santos Ferreira Sousa
+*   Eduardo dos Santos Ferreira Sousa
 *   Milena Franca de Oliveira
 *   Julia Ribeiro da Silva Carvalho
 *   João Emanuel Almeida Ramos
@@ -44,4 +38,4 @@ Estudantes de Algoritmo e Programação na Universidade Federal do Vale do São 
 
 ## Professora
 
-*   **Prof(a):** Ana Emília 
+*   **Prof(a):** Ana Emília
